@@ -1,8 +1,38 @@
-# React + Vite
+## Built With ❤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal <a href="https://mullai-portfolio.vercel.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-Currently, two official plugins are available:
+This project was built using these technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- TailwindCSS
+- CSS3
+- Vite
+- Vercel
+<br>
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with TailwindCSS and Css with easy to customize colors**
+
+**📱 Fully Responsive**
+
+<br>
+
+## Cloning and Editing
+
+To clone this project and edit it:
+
+1. Clone the repository:
+`https://github.com/YourUsername/Portfolio.git`
+
+2. Navigate to the project directory: `cd Portfolio`
+
+3. Install dependencies: `npm install`
+
+4. Start the development server: `npm run dev`
+
+
+
