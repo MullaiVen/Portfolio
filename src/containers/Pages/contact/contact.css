@@ -1,0 +1,9 @@
+.conc {
+  transition: all 0.3s ease;
+}
+
+.conc:hover {
+  transform: scale(1.05);
+  background-color: white;
+  color: black;
+}
