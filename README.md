@@ -26,7 +26,7 @@ This project was built using these technologies.
 To clone this project and edit it:
 
 1. Clone the repository:
-`https://github.com/YourUsername/Portfolio.git`
+`https://github.com/MullaiVen/Portfolio.git`
 
 2. Navigate to the project directory: `cd Portfolio`
 
